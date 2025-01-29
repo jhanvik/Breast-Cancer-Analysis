@@ -9,7 +9,7 @@ library(readxl)
 
 
 #reading data
-data=read.csv("C:/Users/SAHIL MODY/OneDrive/Desktop/DATA_MINING/Hw3/breast-cancer-wisconsin.csv")
+data=read.csv("C:/Users/Jhanvi Kasundra/OneDrive/Desktop/DATA_MINING/breast-cancer-wisconsin.csv")
 View(data)
 
 set.seed(999)
