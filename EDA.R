@@ -6,7 +6,7 @@ library(readxl)
 library(tidyverse)
 
 #reading csv file
-hw<- read.csv("C:/Users/SAHIL MODY/OneDrive/Desktop/DATA MINING/HW 2/breast-cancer-wisconsin.csv")
+hw<- read.csv("C:/Users/Jhanvi Kasundra/OneDrive/Desktop/DATA MINING/breast-cancer-wisconsin.csv")
 View(hw)
 
 ###I.	Summarizing each column (e.g. min, max, mean )
