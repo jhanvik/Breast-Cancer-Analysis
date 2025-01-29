@@ -1,7 +1,7 @@
 rm(list=ls())
 
 #importing the dataset 
-cancer <- read.csv("C:/Users/SAHIL MODY/OneDrive/Desktop/DATA_MINING/HW7/wisc_bc_ContinuousVar.csv")
+cancer <- read.csv("C:/Users/Jhanvi Kasundra/OneDrive/Desktop/DATA_MINING/wisc_bc_ContinuousVar.csv")
 View(cancer)
 #deleting the first row (Data handling)
 cancer1 = subset(cancer, select = -c(id) )
