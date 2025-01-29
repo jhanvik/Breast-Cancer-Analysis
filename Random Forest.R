@@ -1,7 +1,7 @@
 rm(list=ls())
 #Reading Data
 library(readxl)
-data<-read.csv("C:/Users/SAHIL MODY/OneDrive/Desktop/DATA MINING/Hw3/breast-cancer-wisconsin.csv")
+data<-read.csv("C:/Users/Jhanvi Kasundra/OneDrive/Desktop/DATA MINING/breast-cancer-wisconsin.csv")
 View(data)
 
 #Summary
